@@ -5,7 +5,7 @@ const port = 8080;
 const app = express();
 
 const uri =
-  "mongodb+srv://monarch4553:monarch4553@cluster0.bfoipmc.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://monarch4553:monarch4553@cluster0.wzbghiq.mongodb.net/?retryWrites=true&w=majority";
 
 mongoose
   .connect(uri)
